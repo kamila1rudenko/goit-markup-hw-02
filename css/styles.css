@@ -52,3 +52,58 @@ font-family: "Raleway", sans-serif;
 .page-footer {
     background-color: #2e2f42;
 }
+.text-footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.first-section {
+    background-color: #2e2f42;
+}
+.bigest-tital {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.first-button {
+     background: #4d5ae5;
+}
+.text-button {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+}
+.first-button:hover,
+.first-button:focus
+{
+    background-color: #404bbf;
+}
+.advatages-scroll {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.advatages-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.advatages-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
