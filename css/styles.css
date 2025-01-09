@@ -113,6 +113,9 @@ font-family: "Raleway", sans-serif;
         text-align: center;
         color: #2e2f42;
 }
+.section-team {
+    background: #f4f4fd;
+}
 .team-title {
         font-weight: 700;
         font-size: 36px;
@@ -137,6 +140,13 @@ font-family: "Raleway", sans-serif;
         text-align: center;
         color: #434455;
 }
+.team-item {
+     background: #fff;
+}
+.team-img {
+    width: 264px;
+    height: 260px;
+}
 .portf-title {
     font-weight: 700;
     font-size: 36px;
@@ -144,6 +154,7 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .portf-scroll {
         font-weight: 500;
@@ -158,4 +169,8 @@ font-family: "Raleway", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+}
+.port-img {
+    width: 360px;
+    height: 300px;
 }
